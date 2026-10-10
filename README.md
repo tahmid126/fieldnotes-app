@@ -8,6 +8,9 @@
 [![SQLite](https://img.shields.io/badge/Local%20Storage-SQLite-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org)
 [![MySQL](https://img.shields.io/badge/Server%20DB-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com)
 [![Tests](https://img.shields.io/badge/Tests-48%20Passed%20(100%25)-brightgreen?logo=checkmarx)](https://github.com)
+[![Download APK](https://img.shields.io/badge/Download-Release%20APK%20(v1.0.0)-2ea44f?logo=android&logoColor=white)](https://github.com/tahmid126/fieldnotes-app/releases/download/v1.0.0/fieldnotes-app-release.apk)
+
+> 🚀 **Quick Demo Installation**: Download and test directly on Android: [**fieldnotes-app-release.apk (v1.0.0)**](https://github.com/tahmid126/fieldnotes-app/releases/download/v1.0.0/fieldnotes-app-release.apk)
 
 A production-grade, full-stack **Offline-First Field Service Management System** built for field technicians, inspectors, and site service engineers. Technicians can operate entirely offline in remote job sites without connectivity, capture inspection reports, attach real-time hardware camera photos and GPS coordinates, and seamlessly synchronize bi-directionally with an enterprise **Spring Boot 3 REST API** backend once connectivity is restored.
 
