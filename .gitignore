@@ -1,0 +1,50 @@
+# Root .gitignore for Field Notes Monorepo
+
+# Compiled Java / Maven
+target/
+**/target/
+*.class
+.mvn/wrapper/maven-wrapper.jar
+
+# Flutter / Dart
+.dart_tool/
+**/.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+**/build/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+migrate_working_dir/
+
+# Android build artifacts & SDK
+**/android/.gradle
+**/android/captures/
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+*.apk
+*.aab
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# IDEs & Editors
+.idea/
+**/.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+**/.vscode/
+.settings/
+.project
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
